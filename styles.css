@@ -10,6 +10,9 @@ background-color: white;
     width: 100;
 
 }
+.wrapper p{
+    text-indent: 20px;
+}
 .img-banner{
     display: none;
     border-style: none;
